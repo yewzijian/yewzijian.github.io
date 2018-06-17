@@ -1,0 +1,43 @@
+# Site settings
+title: Zi Jian Yew
+description: Life of a phd student
+url: "http://yewzijian.github.io"
+ogimage: "img/default-ogimage.png"
+author:
+  name: "Zi Jian Yew"
+  email: "zyew3[at]comp.nus.edu.sg"
+  url: "http://yewzijian.github.io"
+
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /blog/page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# include: ['_pages']
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
