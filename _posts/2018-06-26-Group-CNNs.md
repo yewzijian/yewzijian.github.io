@@ -4,12 +4,10 @@ description: Paper Summary
 header: Group Equivariant Convolutional Networks
 duration: 5 minutes read
 ---
-&nbsp;
 
 ### Introduction
 
 Group Equivariant Convolutional Networks generalizes convolutional networks to be equivariant to a larger group of transformations (normal CNNs are only translational equivariant).
-
 
 
 ### What is Equivariance?
@@ -31,7 +29,6 @@ Tranformations can be as simple as translations, i.e. $$T_s f(x) = f(x-s)$$, or 
 #### Groups $$p4$$ and $$p4m$$
 
 This work focuses on the achieving equivariance on the groups  $$p4$$ and $$p4m$$. The group $$p4$$ consists of all compositions of translations and rotations by 90 degrees; the group $$p4m$$ includes mirror reflections in addition to those in $$p4$$.
-
 
 
 ### Is Regular Convolution Equivariant?
@@ -109,5 +106,4 @@ The work is evaluated on Rotated MNIST and CIFAR-10 datasets, and is shown to im
 [group]:https://en.wikipedia.org/wiki/Group_(mathematics)
 [paper]: https://arxiv.org/abs/1602.07576
 
-&nbsp;
 

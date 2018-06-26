@@ -1,12 +1,12 @@
 # Site settings
 title: Zi Jian Yew
 description: Life of a phd student
-url: "http://yewzijian.github.io"
+url: "https://yewzijian.github.io"
 ogimage: "img/default-ogimage.png"
 author:
   name: "Zi Jian Yew"
   email: "zyew3[at]comp.nus.edu.sg"
-  url: "http://yewzijian.github.io"
+  url: "https://yewzijian.github.io"
 
 
 # Build settings
