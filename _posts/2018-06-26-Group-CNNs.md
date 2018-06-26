@@ -3,6 +3,7 @@ title: Group Equivariant Convolutional Networks
 description: Paper Summary
 header: Group Equivariant Convolutional Networks
 duration: 5 minutes read
+categories: blog
 ---
 
 ### Introduction
@@ -78,7 +79,7 @@ The authors show that group-convolution are equivariant to transformations $$g \
 
 In the first group-convolution layer, we simply convolve the image with rotated versions of the same filter. e.g. a $$N \times N$$ input feature will give $$N \times N \times 4$$ output feature map per output channel.
 
-![Screenshot from 2018-06-26 17-06-53](blog_images/2018-06-26_17-06-53.png)
+![Screenshot from 2018-06-26 17-06-53](/blog_images/2018-06-26_17-06-53.png)
 
 Notice that if the input image is rotated, it corresponds to a permutation of the pink 3x3 output features.
 
@@ -88,7 +89,7 @@ Things are a bit more tricky in the subsequent layers. Notice that in the first 
 
 Actually it's not as complicated as it seems. As an example, a 90 degree rotation $$r$$ will result in 1) moving in the direction of the red arrow, and 2) rotation of the feature map by $$r$$, as shown in Figure 1.
 
-![Screenshot from 2018-06-26 17-43-08](blog_images/2018-06-26_17-43-08.png)
+![Screenshot from 2018-06-26 17-43-08](/blog_images/2018-06-26_17-43-08.png)
 
 ### Misc Things to Note
 

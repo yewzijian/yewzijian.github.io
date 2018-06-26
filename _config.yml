@@ -14,7 +14,7 @@ baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
-permalink: /:title
+permalink: /:categories/:year-:month-:day/:title:output_ext
 paginate: 8
 paginate_path: /blog/page:num/
 
@@ -30,7 +30,7 @@ defaults:
 # include: ['_pages']
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
