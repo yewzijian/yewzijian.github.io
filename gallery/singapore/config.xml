@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="Singapore"
+					useFullscreenExpand="true"
+		>
+			<image imageURL="images/IMG_6263r.jpg" thumbURL="thumbs/IMG_6263r.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[Fireworks @ Marina Bay]]></title>
+			<caption><![CDATA[Canon PowerShot S90 - 6.0-22.5 mm (6 mm, 4.0 sec at f / 6.3)]]></caption>
+		</image>
+			<image imageURL="images/IMG_6291r.jpg" thumbURL="thumbs/IMG_6291r.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[Merlion]]></title>
+			<caption><![CDATA[Canon PowerShot S90 - 6.0-22.5 mm (6 mm, 2.0 sec at f / 8.0)]]></caption>
+		</image>
+			<image imageURL="images/IMG_6302r.jpg" thumbURL="thumbs/IMG_6302r.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[Canon PowerShot S90 - 6.0-22.5 mm (6 mm, 15.0 sec at f / 8.0)]]></caption>
+		</image>
+			<image imageURL="images/IMG_6305r.jpg" thumbURL="thumbs/IMG_6305r.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[Canon PowerShot S90 - 6.0-22.5 mm (6 mm, 1/500 sec at f / 4.5)]]></caption>
+		</image>
+			<image imageURL="images/IMG_6407_6412_pano.jpg" thumbURL="thumbs/IMG_6407_6412_pano.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[Marina Barrage]]></title>
+			<caption><![CDATA[Canon PowerShot S90 - 6.0-22.5 mm (6 mm, 15.0 sec at f / 8.0)]]></caption>
+		</image>
+	</juiceboxgallery>
