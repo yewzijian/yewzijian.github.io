@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: New Zealand
+title: Sweden
 ---
 I was fortunate enough to go to Sweden for a half year exchange in 2010. This is where I started taking photos, and I learnt a lot from my photography friends during this trip.
 

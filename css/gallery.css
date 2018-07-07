@@ -8,19 +8,18 @@
 .column {
   flex: 33.3%;
   max-width: 33.3%;
-  padding: 0px;
   text-align: center;
+  padding: 5px;
 }
 
 .column img {
-  margin: 0px;
   vertical-align: middle;
 }
 
 /* Responsive layout - makes a two column-layout */
 @media screen and (max-width: 800px) {
   .column {
-    flex: 40%;
+    flex: 33.3%;
     max-width: 33.3%;
   }
 }
