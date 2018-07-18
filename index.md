@@ -18,7 +18,7 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 		</td>
 		<td width="70%">
 			<div class="pub-title">
-				3DFeat-Net: Weakly Supervised Local 3D Features for Rigid Point Cloud Registration
+				3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration
 			</div>
 			<div class="pub-details">
 				<b>Zi Jian Yew</b> and Gim Hee Lee<br/>
