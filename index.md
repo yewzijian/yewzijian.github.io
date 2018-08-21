@@ -27,8 +27,7 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 			<div class="pub-details">
 				[<a href="https://arxiv.org/pdf/1807.09413">Paper</a>]
 				[<a href="https://arxiv.org/src/1807.09413v1/anc/supplementary.pdf">Supplementary Material</a>]
-				[Code]
-				<!-- [<a href="https://github.com/yewzijian/3DFeatNet">Code</a>] -->
+				[<a href="https://github.com/yewzijian/3DFeatNet">Code</a>]
 			</div>
 		</td>
 	</tr>
