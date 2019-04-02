@@ -22,7 +22,7 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 			</div>
 			<div class="pub-details">
 				<em>Zi Jian Yew</em> and Gim Hee Lee<br/>
-				To be presented at ECCV 2018
+				ECCV 2018
 			</div>
 			<div class="pub-details">
 				[<a href="https://arxiv.org/pdf/1807.09413">Paper</a>]
