@@ -21,13 +21,31 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 				3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration
 			</div>
 			<div class="pub-details">
-				<em>Zi Jian Yew</em> and Gim Hee Lee<br/>
+				<u>Zi Jian Yew</u> and Gim Hee Lee<br/>
 				ECCV 2018
 			</div>
 			<div class="pub-details">
 				[<a href="https://arxiv.org/pdf/1807.09413">Paper</a>]
 				[<a href="https://arxiv.org/src/1807.09413v1/anc/supplementary.pdf">Supplementary Material</a>]
 				[<a href="https://github.com/yewzijian/3DFeatNet">Code</a>]
+			</div>
+		</td>
+	</tr>
+		<tr>
+		<td width="30%">
+			<img src="assets/robustrecon.png">
+		</td>
+		<td width="70%">
+			<div class="pub-title">
+				Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes
+			</div>
+			<div class="pub-details">
+				Ziquan Lan, <u>Zi Jian Yew</u>, Gim Hee Lee<br/>
+				CVPR 2019
+			</div>
+			<div class="pub-details">
+				[<a href="https://arxiv.org/pdf/1905.09634">Paper</a>]
+				[<a href="https://github.com/ziquan111/RobustPCLReconstruction">Code</a>]
 			</div>
 		</td>
 	</tr>
