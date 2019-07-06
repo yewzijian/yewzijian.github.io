@@ -2,7 +2,7 @@
 title: Zi Jian Yew
 description: Life of a phd student
 url: "https://yewzijian.github.io"
-ogimage: "img/default-ogimage.png"
+# ogimage: "img/default-ogimage.png"
 author:
   name: "Zi Jian Yew"
   email: "zijian.yew[at]comp.nus.edu.sg"
