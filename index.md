@@ -9,7 +9,6 @@ title: Home
 I am a Computer Science PhD student at the National University of Singapore, working under the supervision of Gim Hee Lee.  Previously, I obtained my Bachelors of Engineering (Computer Engineering) from National University of Singapore in 2011. After graduating, I worked several years in DSO National Laboratories, which is Singapore's Defence R&D organization. During that time I also obtained a Computer Science Masters from Georgia Institute of Technology under their [OMSCS](http://www.omscs.gatech.edu) program.  My research interest is in Computer Vision, particularly in the area of Deep Learning and 3D Vision. To keep my sanity, my personal interests include consumer technology and [photography](photography).
 
 <p>I can be contacted at zijian.yew at comp.nus.edu.sg .</p>
-
 ## Publications {#publications}
 <table>
 	<tr>
@@ -21,7 +20,7 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 				3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration
 			</div>
 			<div class="pub-details">
-				<u>Zi Jian Yew</u> and Gim Hee Lee<br/>
+				Zi Jian Yew and Gim Hee Lee<br/>
 				ECCV 2018
 			</div>
 			<div class="pub-details">
@@ -40,7 +39,7 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 				Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes
 			</div>
 			<div class="pub-details">
-				Ziquan Lan, <u>Zi Jian Yew</u>, Gim Hee Lee<br/>
+				Ziquan Lan, Zi Jian Yew, Gim Hee Lee<br/>
 				CVPR 2019
 			</div>
 			<div class="pub-details">
