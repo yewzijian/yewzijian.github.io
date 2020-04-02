@@ -11,6 +11,43 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 <p>I can be contacted at zijian.yew at comp.nus.edu.sg .</p>
 ## Publications {#publications}
 <table>
+  <tr>
+		<td width="30%">
+			<img src="assets/rpmnet.png">
+		</td>
+		<td width="70%">
+			<div class="pub-title">
+				RPM-Net: Robust Point Matching using Learned Features
+			</div>
+			<div class="pub-details">
+				Zi Jian Yew and Gim Hee Lee<br/>
+				CVPR 2020
+			</div>
+			<div class="pub-details">
+				[<a href="https://arxiv.org/pdf/2003.13479.pdf">Paper</a>]
+				[<a href="https://arxiv.org/src/2003.13479v1/anc/supplementary.pdf">Supplementary Material</a>]
+				[<a href="https://github.com/yewzijian/RPMNet">Code</a>]
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="30%">
+			<img src="assets/robustrecon.png">
+		</td>
+		<td width="70%">
+			<div class="pub-title">
+				Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes
+			</div>
+			<div class="pub-details">
+				Ziquan Lan, Zi Jian Yew, Gim Hee Lee<br/>
+				CVPR 2019
+			</div>
+			<div class="pub-details">
+				[<a href="https://arxiv.org/pdf/1905.09634">Paper</a>]
+				[<a href="https://github.com/ziquan111/RobustPCLReconstruction">Code</a>]
+			</div>
+		</td>
+	</tr>
 	<tr>
 		<td width="30%">
 			<img src="assets/3dfeatnet.png">
@@ -27,24 +64,6 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 				[<a href="https://arxiv.org/pdf/1807.09413">Paper</a>]
 				[<a href="https://arxiv.org/src/1807.09413v1/anc/supplementary.pdf">Supplementary Material</a>]
 				[<a href="https://github.com/yewzijian/3DFeatNet">Code</a>]
-			</div>
-		</td>
-	</tr>
-		<tr>
-		<td width="30%">
-			<img src="assets/robustrecon.png">
-		</td>
-		<td width="70%">
-			<div class="pub-title">
-				Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes
-			</div>
-			<div class="pub-details">
-				Ziquan Lan, Zi Jian Yew, Gim Hee Lee<br/>
-				CVPR 2019
-			</div>
-			<div class="pub-details">
-				[<a href="https://arxiv.org/pdf/1905.09634">Paper</a>]
-				[<a href="https://github.com/ziquan111/RobustPCLReconstruction">Code</a>]
 			</div>
 		</td>
 	</tr>
