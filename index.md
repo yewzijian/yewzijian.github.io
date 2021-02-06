@@ -8,7 +8,8 @@ title: Home
 ## About me
 I am a Computer Science PhD student at the National University of Singapore, working under the supervision of [Gim Hee Lee](https://sites.google.com/site/gimheelee/).  Previously, I obtained my Bachelors of Engineering (Computer Engineering) from National University of Singapore in 2011. After graduating, I worked several years in DSO National Laboratories, which is Singapore's Defence R&D organization. During that time I also obtained a Computer Science Masters from Georgia Institute of Technology under their [OMSCS](http://www.omscs.gatech.edu) program.  My research interest is in Computer Vision, particularly in the area of Deep Learning and 3D Vision. To keep my sanity, my personal interests include consumer technology and [photography](photography).
 
-<p>I can be contacted at zijian.yew at comp.nus.edu.sg .</p>
+<p>My CV can be found <a href="assets/cv_simple.pdf">here</a>. I can be contacted at zijian.yew at comp.nus.edu.sg .</p>
+
 ## Publications {#publications}
 <table>
   <tr>
