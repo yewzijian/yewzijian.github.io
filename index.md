@@ -12,6 +12,42 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 
 ## Publications {#publications}
 <table>
+	<tr>
+		<td width="30%">
+			<img src="assets/transsync.gif">
+		</td>
+		<td width="70%">
+			<div class="pub-title">
+				Learning Iterative Robust Transformation Synchronization
+			</div>
+			<div class="pub-details">
+				Zi Jian Yew and Gim Hee Lee<br/>
+				3DV 2021
+			</div>
+			<div class="pub-details">
+				[<a href="https://arxiv.org/pdf/2111.00728.pdf">Paper</a>]
+				[Code (Under construction)]
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="30%">
+			<img src="assets/changedet.png">
+		</td>
+		<td width="70%">
+			<div class="pub-title">
+				City-scale Scene Change Detection using Point Clouds
+			</div>
+			<div class="pub-details">
+				Zi Jian Yew and Gim Hee Lee<br/>
+				ICRA 2021
+			</div>
+			<div class="pub-details">
+				[<a href="https://arxiv.org/pdf/2103.14314.pdf">Paper</a>]
+				[<a href="https://yewzijian.github.io/ChangeDet/">Project page</a>]
+			</div>
+		</td>
+	</tr>
   <tr>
 		<td width="30%">
 			<img src="assets/rpmnet.png">
