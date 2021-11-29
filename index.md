@@ -26,7 +26,7 @@ I am a Computer Science PhD student at the National University of Singapore, wor
 			</div>
 			<div class="pub-details">
 				[<a href="https://arxiv.org/pdf/2111.00728.pdf">Paper</a>]
-				[Code (Under construction)]
+				[<a href="https://github.com/yewzijian/MultiReg">Code</a>]
 			</div>
 		</td>
 	</tr>
