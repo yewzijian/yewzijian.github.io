@@ -6,12 +6,30 @@ title: Home
 ![alt text](assets/img-6364.jpg "Photo of me")
 
 ## About me
-I am a Computer Science PhD student at the National University of Singapore, working under the supervision of [Gim Hee Lee](https://sites.google.com/site/gimheelee/).  Previously, I obtained my Bachelors of Engineering (Computer Engineering) from National University of Singapore in 2011. After graduating, I worked several years in DSO National Laboratories, which is Singapore's Defence R&D organization. During that time I also obtained a Computer Science Masters from Georgia Institute of Technology under their [OMSCS](http://www.omscs.gatech.edu) program.  My research interest is in Computer Vision, particularly in the area of Deep Learning and 3D Vision. To keep my sanity, my personal interests include consumer technology and [photography](photography).
+I'm currently an AI research engineer at [Hyundai Motor Group Innovation Center in Singapore (HMGICS)](https://hyundaisingapore.com). Previously, I did my PhD at the National University of Singapore under the supervision of [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/).  Before that, I also worked several years in DSO National Laboratories, which is Singapore's defence R&D organization.  My research interest is in Computer Vision (particularly in 3D related topics, both deep and non-deep). To keep my sanity, my personal interests include consumer technology and [photography](photography).
 
-<p>My CV can be found <a href="assets/cv_simple.pdf">here</a>. I can be contacted at zijian.yew at comp.nus.edu.sg .</p>
+<p>I can be contacted at yewzijian at u.nus.edu .</p>
 
 ## Publications {#publications}
 <table>
+  <tr>
+		<td width="30%">
+			<img src="assets/regtr.jpg">
+		</td>
+		<td width="70%">
+			<div class="pub-title">
+				REGTR: End-to-end Point Cloud Correspondences with Transformers
+			</div>
+			<div class="pub-details">
+				Zi Jian Yew and Gim Hee Lee<br/>
+				CVPR 2022
+			</div>
+			<div class="pub-details">
+				[<a href="https://arxiv.org/pdf/2203.14517.pdf">Paper</a>]
+				[<a href="https://github.com/yewzijian/RegTR">Code</a>]
+			</div>
+		</td>
+	</tr>
 	<tr>
 		<td width="30%">
 			<img src="assets/transsync.gif">
