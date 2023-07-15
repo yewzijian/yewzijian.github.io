@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Yew;Zi Jian;;;
+FN: Yew Zi Jian (Ben)
+ORG:Hyundai Motor Group Innovation Center in Singapore;
+TITLE:Senior AI Research Engineer\nAIR Center
+EMAIL;type=INTERNET;type=WORK;type=pref:zijian.yew@hmgics.com
+TEL;type=WORK;type=VOICE:+65 9821 1769
+item1.ADR;type=WORK;type=pref:;;2 Bulim Link;;;649674;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.hyundai.com/sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
